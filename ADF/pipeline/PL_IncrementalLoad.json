@@ -1,7 +1,7 @@
 {
 	"name": "PL_IncrementalLoad",
 	"properties": {
-		"description": "This Pipeline is to load data incrementally from source to destination for multiple tables",
+		"description": "This Pipeline is to load data incrementally from source to destination for multiple tables.",
 		"activities": [
 			{
 				"name": "LKP_OldWaterMarkValue",
